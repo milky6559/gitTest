@@ -55,7 +55,7 @@ public class jfrmButton extends JFrame {
 		JButton btnNewButton = new JButton("New button");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				lblNewLabel.setText("goodness");
+				lblNewLabel.setText("xaabba");
 			}
 		});
 		btnNewButton.setBounds(61, 70, 87, 23);
