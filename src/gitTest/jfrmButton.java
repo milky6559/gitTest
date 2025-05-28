@@ -58,6 +58,7 @@ public class jfrmButton extends JFrame {
 				lblNewLabel.setText("xaabba");
 				String sys_name=System.getProperty("os.name");
 				System.out.println(sys_name);
+				System.out.println("test2");
 			}
 		});
 		btnNewButton.setBounds(61, 70, 87, 23);
